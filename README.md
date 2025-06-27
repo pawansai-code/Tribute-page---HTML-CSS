@@ -4,6 +4,6 @@ This is a basic tribute page created using HTML and CSS.
 
 While building this page, you can practice and learn the following concepts:
 
-#HTML# – structure, elements, and attributes
+*HTML* – structure, elements, and attributes
 
-#CSS# – box model and flexbox
+*CSS* – box model and flexbox
